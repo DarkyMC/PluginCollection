@@ -365,8 +365,15 @@
 		        "jarName": "TaigaLib_v2.0.jar"
 		        "configName": "TaigaLib"
 		        "requiredRank": "4"
+		},
+		{
+			"name": "Sethome",
+			"desc": "Sets player's home on command so they can teleport at any time",
+			"jarName": "SetHome.jar",
+			"configName": "SetHome"
+	
+		}
 	]
 }
-}
-}
+
 
