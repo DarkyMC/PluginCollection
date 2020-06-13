@@ -366,7 +366,13 @@
 		        "configName": "TaigaLib"
 		        "requiredRank": "4"
 	]
-}
+},
+		{
+			"name": "Thunder Plus",
+			"desc": "Makes thunder more deadly. note i did not make this someone else did i just wanted to use it on my server.",
+			"jarName": "ThunderPlus.jar",
+			"configName": "ThunderPlus"
+		}
 }
 }
 
