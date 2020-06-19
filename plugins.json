@@ -365,7 +365,15 @@
 		        "jarName": "TaigaLib_v2.0.jar"
 		        "configName": "TaigaLib"
 		        "requiredRank": "4"
+		},
+		{	
+			"name": "Hardcore Plus",
+			"desc": "Makes the hardest diffuclty",
+			"jarName": "HardcorePlus.jar",
+			"configName": "Hardcore Plus"
+		}
 	]
+	
 }
 }
 }
